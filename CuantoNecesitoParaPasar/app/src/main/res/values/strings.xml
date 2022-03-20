@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CuantoNecesitoParaPasar</string>
+    <string name="primer_computo">Primer Computo</string>
+    <string name="digite_las_notas_por_cada_computo">Digite las notas por cada computo</string>
+    <string name="segundo_computo">Segundo Computo</string>
+    <string name="tercer_computo">Tercer Computo</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="button">Button</string>
+    <string name="calcular">Calcular</string>
+</resources>
